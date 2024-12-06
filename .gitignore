@@ -1,0 +1,2 @@
+# ignore parquet files
+*.parquet
